@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Sayonara",
+  "base_artist": "MIREI",
+  "createdAt": "2026-03-15T18:16:10.606476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sayonara Dakega Jinseida",
+      "artist": "Kashitaro Ito",
+      "has_synced": false,
+      "path": "select/01_Sayonara_Dakega_Jinseida_Kashitaro_Ito.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sayonara",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/02_Sayonara_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sayonara (Goodbye)",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/03_Sayonara_(Goodbye)_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sayonara",
+      "artist": "Nemesea",
+      "has_synced": true,
+      "path": "select/04_Sayonara_Nemesea.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sayonara",
+      "artist": "Donatella Rettore",
+      "has_synced": false,
+      "path": "select/05_Sayonara_Donatella_Rettore.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sayonara",
+      "artist": "Rettore",
+      "has_synced": false,
+      "path": "select/06_Sayonara_Rettore.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sayonara",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/07_Sayonara_Orange_Range.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sayonara No Natsu - Kokuriko-Zaka Kara (Live At Katsushika Symphony Hills Mozart Hall, 5/28/2016)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/08_Sayonara_No_Natsu_-_Kokuriko-Zaka_Kara_(Live_At_Katsushika_Symphony_Hills_Mozart_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sayonara No Natsu (kokuriko Zaka Kara karaoke)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/09_Sayonara_No_Natsu_(kokuriko_Zaka_Kara_karaoke)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sayonara no natsu ~ kokuriko-zaka kara ~ (shudaika-betsu baajon)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/10_Sayonara_no_natsu_~_kokuriko-zaka_kara_~_(shudaika-betsu_baajon)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Namidakun Sayonara",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/11_Namidakun_Sayonara_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Namidakun Sayonara",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/12_Namidakun_Sayonara_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saigo No Koi Ni Sayonara",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/13_Saigo_No_Koi_Ni_Sayonara_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sayonara Itoshino Baby Blues",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/14_Sayonara_Itoshino_Baby_Blues_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sayonara",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/pl_01_sayonara_當山みれい.txt"
+    }
+  ]
+}
